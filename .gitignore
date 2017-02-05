@@ -1,2 +1,5 @@
 hidden
 __pycache__
+images
+out_images
+out_models
