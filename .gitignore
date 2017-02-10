@@ -3,3 +3,11 @@ __pycache__
 images
 out_images
 out_models
+*.model*
+*.dump
+samples
+samples.1
+out_models
+out_images
+.ipynb_checkpoints
+faces
